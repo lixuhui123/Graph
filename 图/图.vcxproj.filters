@@ -27,5 +27,26 @@
     <ClCompile Include="queue_pop.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="放扑克牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="员工的重要性.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图像渲染.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="被包围的岛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="岛屿的数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词接龙.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

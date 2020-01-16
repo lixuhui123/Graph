@@ -1,37 +1,7 @@
-﻿  graph.cpp
-e:\bite learn\图\图\graph.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
-  e:\bite learn\图\图\graph.cpp(18): note: 编译 类 模板 成员函数 "Graph<std::string,int,false>::Graph(const V *,size_t)" 时
-          with
-          [
-              V=std::string
-          ]
-  e:\bite learn\图\图\graph.cpp(120): note: 参见对正在编译的函数 模板 实例化“Graph<std::string,int,false>::Graph(const V *,size_t)”的引用
-          with
-          [
-              V=std::string
-          ]
-  e:\bite learn\图\图\graph.cpp(120): note: 参见对正在编译的 类 模板 实例化 "Graph<std::string,int,false>" 的引用
-e:\bite learn\图\图\graph.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
-e:\bite learn\图\图\graph.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
-  e:\bite learn\图\图\graph.cpp(89): note: 编译 类 模板 成员函数 "void Graph<std::string,int,false>::_DFS(int,std::vector<bool,std::allocator<_Ty>> &)" 时
-          with
-          [
-              _Ty=bool
-          ]
-  e:\bite learn\图\图\graph.cpp(113): note: 参见对正在编译的函数 模板 实例化“void Graph<std::string,int,false>::_DFS(int,std::vector<bool,std::allocator<_Ty>> &)”的引用
-          with
-          [
-              _Ty=bool
-          ]
-e:\bite learn\图\图\graph.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
-  e:\bite learn\图\图\graph.cpp(35): note: 编译 类 模板 成员函数 "size_t Graph<std::string,int,false>::GetVertexIndex(const V &)" 时
-          with
-          [
-              V=std::string
-          ]
-  e:\bite learn\图\图\graph.cpp(110): note: 参见对正在编译的函数 模板 实例化“size_t Graph<std::string,int,false>::GetVertexIndex(const V &)”的引用
-          with
-          [
-              V=std::string
-          ]
-  图.vcxproj -> E:\bite learn\图\Debug\图.exe
+﻿G:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(图.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  graph.cpp
+  test.cpp
+  岛屿的数量.cpp
+  被包围的岛.cpp
+  正在生成代码...
+  图.vcxproj -> E:\bite learn\Graph\Debug\Graph.exe
