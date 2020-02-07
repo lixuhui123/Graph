@@ -121,12 +121,14 @@
     <ClCompile Include="reserve.cpp" />
     <ClCompile Include="graph.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="再次放扑克牌.cpp" />
     <ClCompile Include="单词接龙.cpp" />
     <ClCompile Include="员工的重要性.cpp" />
     <ClCompile Include="图像渲染.cpp" />
     <ClCompile Include="岛屿的数量.cpp" />
     <ClCompile Include="放扑克牌.cpp" />
     <ClCompile Include="被包围的岛.cpp" />
+    <ClCompile Include="解救小哈.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

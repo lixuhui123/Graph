@@ -48,5 +48,11 @@
     <ClCompile Include="单词接龙.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="再次放扑克牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="解救小哈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
