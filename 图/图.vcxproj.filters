@@ -54,5 +54,11 @@
     <ClCompile Include="解救小哈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="再做岛屿的数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -121,6 +121,8 @@
     <ClCompile Include="reserve.cpp" />
     <ClCompile Include="graph.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="vector.cpp" />
+    <ClCompile Include="再做岛屿的数量.cpp" />
     <ClCompile Include="再次放扑克牌.cpp" />
     <ClCompile Include="单词接龙.cpp" />
     <ClCompile Include="员工的重要性.cpp" />
