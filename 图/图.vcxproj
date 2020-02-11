@@ -128,7 +128,9 @@
     <ClCompile Include="员工的重要性.cpp" />
     <ClCompile Include="图像渲染.cpp" />
     <ClCompile Include="岛屿的数量.cpp" />
+    <ClCompile Include="并查集.cpp" />
     <ClCompile Include="放扑克牌.cpp" />
+    <ClCompile Include="朋友圈.cpp" />
     <ClCompile Include="被包围的岛.cpp" />
     <ClCompile Include="解救小哈.cpp" />
   </ItemGroup>

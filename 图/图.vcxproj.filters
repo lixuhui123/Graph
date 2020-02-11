@@ -60,5 +60,11 @@
     <ClCompile Include="vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="朋友圈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="并查集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
